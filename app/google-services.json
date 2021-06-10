@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1050297028471",
+    "project_id": "vanlanglogin-cb7b6",
+    "storage_bucket": "vanlanglogin-cb7b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050297028471:android:d7b533822c62bfd5efdb72",
+        "android_client_info": {
+          "package_name": "com.example.ahihi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050297028471-vtc20ort5iep6qbnlmkrdn9iprkl0pnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahihi",
+            "certificate_hash": "1f2fa16f2151eabb035b22b5fc05eeec7c4f8e42"
+          }
+        },
+        {
+          "client_id": "1050297028471-ih015ef9e91pa5urgb17modpuh94pvdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-MBjZGpnABl8feUCiAe0TMyzF5KkkLig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050297028471-ih015ef9e91pa5urgb17modpuh94pvdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
